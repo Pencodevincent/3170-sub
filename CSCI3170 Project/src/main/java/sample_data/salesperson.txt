@@ -1,0 +1,11 @@
+1	Samsung Rep	Suwon-si, Korea	55512123	5
+2	Asus Rep	Taipei City, Taiwan	55545678	3
+3	WD Rep	San Jose, CA	55598765	7
+4	Toshiba Rep	Minato-ku, Tokyo	55543210	4
+5	Kingston Rep	Fountain Valley, CA	55587654	6
+6	Logitech Rep	Newark, CA	55532109	2
+7	Microsoft Rep	Redmond, WA	55576543	8
+8	Dell Rep	Round Rock, TX	55521098	1
+9	Acer Rep	New Taipei City	55565432	3
+10	Razer Rep	Santa Clara, CA	55509876	9
+95	Peter Chan	New York, US	95025555	1

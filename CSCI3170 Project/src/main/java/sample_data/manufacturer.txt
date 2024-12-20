@@ -1,0 +1,11 @@
+1	Samsung	Suwon-si, Gyeonggi-do, Korea	55512123
+2	Asus	Taipei City 112, Taiwan	55545678
+3	Western Digital	San Jose, CA	55598765
+4	Toshiba	Minato-ku, Tokyo, Japan	55543210
+5	Kingston	Fountain Valley, CA	55587654
+6	Logitech	Newark, CA	55532109
+7	Microsoft	Redmond, WA	55576543
+8	Dell	Round Rock, TX	55521098
+9	Acer	New Taipei City, Taiwan	55565432
+10	Razer	Santa Clara, CA	55509876
+90	Nvidia	Boston, London, UK	11519089

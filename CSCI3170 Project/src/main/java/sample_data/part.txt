@@ -1,0 +1,12 @@
+1	Samsung Phone	1200	1	1	12	50
+2	Asus Laptop	800	2	2	24	25
+3	WD Hard Drive	150	3	3	36	75
+4	Toshiba TV	500	4	4	12	15
+5	Kingston SSD	200	5	3	60	30
+6	Logitech Mouse	50	6	5	12	99
+7	Microsoft OS	150	7	6	12	99
+8	Dell Monitor	300	8	4	24	40
+9	Acer Tablet	250	9	2	12	60
+10	Razer Keyboard	100	10	5	24	75
+955	RTX4090	30000	90	6	6	1
+78	RTX4090	15000	90	6	3	15
